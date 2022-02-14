@@ -4,3 +4,4 @@ const aritemEl = document.querySelectorAll('.item');
      console.log(`Category: ${categ.querySelector('h2').textContent}`);
      console.log(`Elements: ${categ.querySelectorAll('li').length}`);
 });
+
